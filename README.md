@@ -1,10 +1,10 @@
 # insight-poker
 
-This repos exists mostly to contain a list of the different repos that make up insight poker. No files beyond the license and readme should exist here.
+This repo exists to contain a list of the different repos that make up Insight Poker. No files beyond the license and readme should exist here.
 
 Some repos have not yet been pushed to github but do exist. Most likely still a work in progress.
 
-Target release for alpha of full app is middle May. This may change if the developer does something silly like get a full time job.
+Target release for alpha of full app is mid May. This may change if the developer does something silly like get a full time job.
 
 ## Repos
 repo name/link | description
